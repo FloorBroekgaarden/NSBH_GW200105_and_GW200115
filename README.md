@@ -12,13 +12,16 @@ To recreate Figure 1 you will need the following .csv files
  - rates_MSSFR_Models_BHBH_AllDCOsimulation.csv # 22.9 kB
  - rates_MSSFR_Models_BHNS_AllDCOsimulation.csv # 22.9 kB
  - rates_MSSFR_Models_NSNS_AllDCOsimulation.csv # 22.9 kB
- that are available in the directory 
-https://github.com/FloorBroekgaarden/NSBH_GW200105_and_GW200115/tree/main/dataFiles/summary_data_Fig_2
-The same files are also available in the file csvFilesForFigure2_and_3_DCOpaper.zip from the Zenodo entry  https://zenodo.org/record/5178777
+
+
+that are available in the directory 
+https://github.com/FloorBroekgaarden/NSBH_GW200105_and_GW200115/tree/main/dataFiles/summary_data_Fig_1
+
+The same files are also available in the file "csvFilesForFigure2_and_3_DCOpaper.zip" from the Zenodo entry  https://zenodo.org/record/5178777
 
 #### Fig 1. Code:
 The code to reproduce Figure 1 is available in the jupyter notebook:
-https://github.com/FloorBroekgaarden/NSBH_GW200105_and_GW200115/tree/main/plottingCode/Fig_1/make_Figure_2.ipynb  
+https://github.com/FloorBroekgaarden/NSBH_GW200105_and_GW200115/tree/main/plottingCode/Fig_1/make_Figure_1.ipynb  
 
 -- 
 
