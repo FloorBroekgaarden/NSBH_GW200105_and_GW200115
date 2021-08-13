@@ -3,6 +3,7 @@ This is a publicly available Github repostitory to recreate all the results and 
 
 The repostitory is structured as follows 
 
+-----------------------------------------
 
 ## Reproducing Figure 1:
 
