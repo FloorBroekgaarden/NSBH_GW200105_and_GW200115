@@ -12,7 +12,9 @@ To recreate Figure 1 you will need the following .csv files
  - rates_MSSFR_Models_BHBH_AllDCOsimulation.csv # 22.9 kB
  - rates_MSSFR_Models_BHNS_AllDCOsimulation.csv # 22.9 kB
  - rates_MSSFR_Models_NSNS_AllDCOsimulation.csv # 22.9 kB
- that are available in the directory 
+
+
+that are available in the directory 
 https://github.com/FloorBroekgaarden/NSBH_GW200105_and_GW200115/tree/main/dataFiles/summary_data_Fig_1
 The same files are also available in the file csvFilesForFigure2_and_3_DCOpaper.zip from the Zenodo entry  https://zenodo.org/record/5178777
 
