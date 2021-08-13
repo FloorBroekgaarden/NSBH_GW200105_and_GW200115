@@ -16,7 +16,8 @@ To recreate Figure 1 you will need the following .csv files
 
 that are available in the directory 
 https://github.com/FloorBroekgaarden/NSBH_GW200105_and_GW200115/tree/main/dataFiles/summary_data_Fig_1
-The same files are also available in the file csvFilesForFigure2_and_3_DCOpaper.zip from the Zenodo entry  https://zenodo.org/record/5178777
+
+The same files are also available in the file "csvFilesForFigure2_and_3_DCOpaper.zip" from the Zenodo entry  https://zenodo.org/record/5178777
 
 #### Fig 1. Code:
 The code to reproduce Figure 1 is available in the jupyter notebook:
