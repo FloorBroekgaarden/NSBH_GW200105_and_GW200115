@@ -1,4 +1,4 @@
-# Code to reproduce: "Formation of the First Two Black Hole – Neutron Star Mergers (GW200115 and GW200105) from Isolated Binary Evolution" <https://ui.adsabs.harvard.edu/abs/2021arXiv210805763B/abstract> 
+# Code to reproduce: "Formation of the First Two Black Hole–Neutron Star Mergers (GW200115 and GW200105) from Isolated Binary Evolution" <https://ui.adsabs.harvard.edu/abs/2021arXiv210805763B/abstract> 
 This is a publicly available Github repostitory to recreate all the results and figures from the manuscript "Formation of the First Two Black Hole – Neutron Star Mergers (GW200115 and GW200105) from Isolated Binary Evolution" by Floor S. Broekgaarden and Edo Berger (accepted. to ApJ Letters, <https://ui.adsabs.harvard.edu/abs/2021arXiv210805763B/abstract>). 
 
 
